@@ -1,3 +1,19 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
     background-color:lightgray;
+}
+
+h1.main-heading {
+    text-align:center;
+}
+
+img.food-image {
+    display:block;
+    width: 750px;
+    height: auto;
+    margin: auto;
+    border-radius: 30px;
 }
