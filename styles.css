@@ -17,3 +17,9 @@ img.food-image {
     margin: auto;
     border-radius: 30px;
 }
+
+p.description {
+    text-align: center;
+    text-wrap-style: balance;
+    margin: 10px 25%;
+}
