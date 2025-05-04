@@ -19,7 +19,17 @@ img.food-image {
 }
 
 p.description {
+    display: block;
     text-align: center;
     text-wrap-style: balance;
-    margin: 10px 25%;
+    margin: 10px 20%;
+}
+
+p.description,
+p.header-two {
+    font-size: 18px;
+}
+
+li {
+    margin: 5px;
 }
